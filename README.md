@@ -1,5 +1,5 @@
-# Hi, I'm Migo 👋
-### Backend & Cloud Developer | Aspiring Software Engineer
+# 😁 Welcome to my profile! 
+### Aspiring Software Engineer | Python, PHP, TypeScript, NextJS, MySQL, PostgreSQL, React, and more
 
 This is the official DBTC-affliated student account used for school projects and some personal projects. As of time of writing (Late April 2026, I am currently working on a project under my software brand Communeye named 'Project North Star'. You can find my Instagram page for the progress of that project [here](https://www.instagram.com/communeye.software)!
 
